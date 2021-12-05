@@ -18,7 +18,7 @@ int main() {
 		string key;
 		getline(cin, key);
 
-		cout << encrypt(input, stoi(key)) << endl;
+		cout << endl << "ENCRYPTED AS:\n" << encrypt(input, stoi(key)) << endl;
 
 		cout << "\nDECRYPTED AS:" << endl;
 
