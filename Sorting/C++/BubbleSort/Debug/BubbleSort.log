@@ -1,0 +1,3 @@
+﻿  BubbleSort.cpp
+C:\Users\TesarDavid\OneDrive - University of Wisconsin-Stout\Documents\GitHub\CyberSecurity\Sorting\C++\BubbleSort\BubbleSort.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BubbleSort.vcxproj -> C:\Users\TesarDavid\OneDrive - University of Wisconsin-Stout\Documents\GitHub\CyberSecurity\Sorting\C++\BubbleSort\Debug\BubbleSort.exe
