@@ -1,3 +1,3 @@
-# CyberSecurity
+# MyProjects
 
-Collection of project related to Cyber Security made using mostly C++ and Python.
+Collection of projects created out of personal interest for the certain topic.
